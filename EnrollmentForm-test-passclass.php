@@ -35,18 +35,20 @@
 <!--http://stackoverflow.com/questions/10167960/php-populate-drop-down-list-with-sql-data-->
 <html lang="en">
 <head>
-<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
-<meta http-equiv="content-language" content="en"/>
-<link rel="icon" href="/images/favicon.png" type="image/png"/>
-<link rel="shortcut icon" href="/images/favicon.png" type="image/png"/>
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+	<meta http-equiv="content-language" content="en"/>
+	<link rel="icon" href="/images/favicon.png" type="image/png"/>
+	<link rel="shortcut icon" href="/images/favicon.png" type="image/png"/>
 
-<title>Teacher Enrollment Form</title>
-<!-- <script src="../js/jquery.js"></script> -->
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-<script src="enrollmentscripts.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/global.css">
+	<title>Teacher Enrollment Form</title>
+	<!-- <script src="../js/jquery.js"></script> -->
+	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+	<script src="enrollmentscripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/global.css">
 
 </head>
 <body>
